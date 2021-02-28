@@ -26,8 +26,8 @@ projects:
     archived: false
     forks: true
     projects: 
-    Project-Euler
-    Andrew-Ng-s-Machine-Learning-Course-Coursera
+#     Project-Euler
+#     Andrew-Ng-s-Machine-Learning-Course-Coursera
     # - repo-name
 
 # social_media:
