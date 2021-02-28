@@ -26,8 +26,8 @@ projects:
     archived: false
     forks: true
     projects: 
-#     Project-Euler
-#     Andrew-Ng-s-Machine-Learning-Course-Coursera
+    - Project-Euler
+    - Andrew-Ng-s-Machine-Learning-Course-Coursera
     # - repo-name
 
 # social_media:
@@ -55,7 +55,7 @@ topics:
 
   - name: Android
     web_url: https://github.com/topics/android
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/c/c.png
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/android/android.png
     
   - name: C/C++
     web_url: https://github.com/topics/cpp
